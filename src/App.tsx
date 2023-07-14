@@ -1,13 +1,12 @@
-import { useState } from "react";
-import "./App.css";
+import { Toaster } from './components/ui/Toaster';
+import MainLayout from './layouts/MainLayout';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <>
-      <h1 className="bg-red">Tech Net</h1>
-    </>
+    <div>
+      <Toaster />
+      <MainLayout />
+    </div>
   );
 }
 
