@@ -13,7 +13,12 @@
     ],
     "status": true,
     "rating": 4,
-    "comments": []
+    "comments": [
+      "Test comment 1",
+      "Test comment 2",
+      "Test comment 3",
+      "Test comment 4"
+    ]
   },
   {
     "name": "Haylou GS",
@@ -29,7 +34,12 @@
     ],
     "status": false,
     "rating": 3,
-    "comments": []
+    "comments": [
+      "Test comment 5",
+      "Test comment 6",
+      "Test comment 7",
+      "Test comment 8"
+    ]
   },
   {
     "name": "Haylou Solar Plus RT3",
@@ -44,7 +54,12 @@
     ],
     "status": true,
     "rating": 5,
-    "comments": []
+    "comments": [
+      "Test comment 51",
+      "Test comment 21",
+      "Test comment 11",
+      "Test comment 12"
+    ]
   },
   {
     "name": "Haylou RT2",
@@ -59,7 +74,12 @@
     ],
     "status": true,
     "rating": 2,
-    "comments": []
+    "comments": [
+      "Test comment 52",
+      "Test comment 62",
+      "Test comment 72",
+      "Test comment 82"
+    ]
   },
   {
     "name": "Haylou RS4 Plus",
@@ -75,7 +95,12 @@
     ],
     "status": false,
     "rating": 4,
-    "comments": []
+    "comments": [
+      "Test comment 53",
+      "Test comment 64",
+      "Test comment 73",
+      "Test comment 83"
+    ]
   },
   {
     "name": "Haylou RS3",
@@ -91,6 +116,11 @@
     ],
     "status": true,
     "rating": 5,
-    "comments": []
+    "comments": [
+      "Test comment 75",
+      "Test comment 76",
+      "Test comment 77",
+      "Test comment 78"
+    ]
   }
 ]
